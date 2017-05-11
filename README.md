@@ -1,1 +1,0 @@
-This program code serves as a shell interface. Shell accepts user commands with the interface and then runs a separate process. In response to the user, the command prompt is entered as follows, then the system waits for the user to enter the command and the entered command is executed.
